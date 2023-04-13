@@ -38,5 +38,8 @@ My name is Roman, and I am a QA Engineer since September 2021.
 - <a target="_blank" href="https://github.com/ReStarkov/restful-booker-api">Restful-booker-api</a> - a demonstration project for API service automation testing.
 - <a target="_blank" href="https://github.com/ReStarkov/wb_mobile">Wildberries</a> - a demonstration project for mobile automation testing.
 
+## My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ReStarkov&theme=dark&background=000000)](https://git.io/streak-stats)
+
 ## Contacts
 - LinkedIn: https://www.linkedin.com/in/romanstarkovv
