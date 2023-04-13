@@ -15,6 +15,8 @@ My name is Roman, and I am a QA Engineer since September 2021.
     - Some experience in mobile testing for Android devices.
 - ## Python :snake:
   - in progress
+
+### Technologies
 ------------------------------------------------------------------------
 <p align="center">
 <img src="icons/Idea.svg" width="50" height="50"  alt="IDEA"/></a>
