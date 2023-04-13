@@ -39,7 +39,8 @@ My name is Roman, and I am a QA Engineer since September 2021.
 - <a target="_blank" href="https://github.com/ReStarkov/wb_mobile">Wildberries</a> - a demonstration project for mobile automation testing.
 
 ## My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ReStarkov&theme=black-ice)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ReStarkov&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## Contacts
 - LinkedIn: https://www.linkedin.com/in/romanstarkovv
