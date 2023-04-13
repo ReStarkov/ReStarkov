@@ -30,10 +30,8 @@ My name is Roman, and I am a QA Engineer since September 2021.
 <img src="icons/Selenoid.svg" width="50" height="50"  alt="Selenoid"/></a>
 <img src="icons/Allure_TO.svg" width="50" height="50"  alt="Allure TestOps"/></a>
 <img src="icons/Appium.svg" width="50" height="50"  alt="Appium"/></a>
-<img src="icons/testng.png" width="100" height="50"  alt="testng"/></a>
 <img src="icons/android.svg" width="100" height="50"  alt="android"/></a>
-
-
+<img src="icons/testng.png" width="100" height="50"  alt="testng"/></a>
 
 ## Projects
 - <a target="_blank" href="https://github.com/ReStarkov/tinkoffTests">Tinkoff City</a> - a demonstration project for website automation testing. 
