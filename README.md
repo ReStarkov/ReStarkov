@@ -18,7 +18,7 @@ My name is Roman, and I am a QA Engineer since September 2021.
 
 ## Technologies
 
-<p align="center">
+<p align="left">
 <img src="icons/Idea.svg" width="50" height="50"  alt="IDEA"/></a>
 <img src="icons/Java.svg" width="50" height="50"  alt="Java"/></a>
 <img src="icons/Gradle.svg" width="50" height="50"  alt="Gradle"/></a>
