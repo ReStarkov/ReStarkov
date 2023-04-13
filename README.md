@@ -9,7 +9,7 @@
 My name is Roman, and I am a QA Engineer since September 2021. 
 
 ### Skills
-- ## Java :hotsprings: :
+- ## Java :hotsprings: 
     - Backend testing (API, databases, RabbitMQ, Docker)
     - UI testing
     - Some experience in mobile testing for Android devices.
