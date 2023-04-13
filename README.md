@@ -42,5 +42,9 @@ My name is Roman, and I am a QA Engineer since September 2021.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ReStarkov&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/2WH6sqGKm027uq1Q9G/giphy.gif" width="600"/>
+</div>
+
 ## Contacts
 - LinkedIn: https://www.linkedin.com/in/romanstarkovv
