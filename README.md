@@ -44,6 +44,6 @@ My name is Roman, and I am a QA Engineer since September 2021.
 ## Contacts
 - LinkedIn: https://www.linkedin.com/in/romanstarkovv
 
-<div id="header" align="center">
+<div id="header" align="left">
   <img src="https://media.giphy.com/media/I7V6Te1Ka0U00/giphy.gif" width="400"/>
 </div>
