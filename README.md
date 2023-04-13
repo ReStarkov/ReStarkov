@@ -31,7 +31,7 @@ My name is Roman, and I am a QA Engineer since September 2021.
 <img src="icons/Junit5.svg" width="50" height="50"  alt="JUnit 5"/></a>
 <img src="icons/testng.png" width="100" height="50"  alt="testng"/></a>
 
-------------------------------------------------------------------------
+
 
 ## Projects
 - <a target="_blank" href="https://github.com/ReStarkov/tinkoffTests">Tinkoff City</a> - a demonstration project for website automation testing. 
