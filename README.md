@@ -5,18 +5,18 @@
 
 
 
-### About Me
+## About Me
 My name is Roman, and I am a QA Engineer since September 2021. 
 
 ### Skills
-- ## Java :hotsprings: 
+- ### Java :hotsprings: 
     - Backend testing (API, databases, RabbitMQ, Docker)
     - UI testing
     - Some experience in mobile testing for Android devices.
-- ## Python :snake:
+- ### Python :snake:
   - in progress
 
-### Technologies
+## Technologies
 ------------------------------------------------------------------------
 <p align="center">
 <img src="icons/Idea.svg" width="50" height="50"  alt="IDEA"/></a>
@@ -33,10 +33,10 @@ My name is Roman, and I am a QA Engineer since September 2021.
 
 ------------------------------------------------------------------------
 
-### Projects
+## Projects
 - <a target="_blank" href="https://github.com/ReStarkov/tinkoffTests">Tinkoff City</a> - a demonstration project for website automation testing. 
 - <a target="_blank" href="https://github.com/ReStarkov/restful-booker-api">Restful-booker-api</a> - a demonstration project for API service automation testing.
 - <a target="_blank" href="https://github.com/ReStarkov/wb_mobile">Wildberries</a> - a demonstration project for mobile automation testing.
 
-### Contacts
+## Contacts
 - LinkedIn: https://www.linkedin.com/in/romanstarkovv
