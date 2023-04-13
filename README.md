@@ -1,16 +1,35 @@
-### Hi there 👋
+## Welcome to my GitHub profile!
 
-<!--
-**ReStarkov/ReStarkov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
+My name is Roman, and I am a QA Engineer since September 2021. 
 
-Here are some ideas to get you started:
+### Skills
+- ## Java :hotsprings: :
+    - Backend testing (API, databases, RabbitMQ, Docker)
+    - UI testing
+    - Some experience in mobile testing for Android devices.
+- ## Python :snake:
+  - in progress
+------------------------------------------------------------------------
+<p align="center">
+<img src="icons/Idea.svg" width="50" height="50"  alt="IDEA"/></a>
+<img src="icons/Java.svg" width="50" height="50"  alt="Java"/></a>
+<img src="icons/Gradle.svg" width="50" height="50"  alt="Gradle"/></a>
+<img src="icons/Selenide.svg" width="50" height="50"  alt="Selenide"/></a>
+<img src="icons/Selenoid.svg" width="50" height="50"  alt="Selenoid"/></a>
+<img src="icons/Allure_TO.svg" width="50" height="50"  alt="Allure TestOps"/></a>
+<img src="icons/Appium.svg" width="50" height="50"  alt="Appium"/></a>
+<img src="icons/Jenkins.svg" width="50" height="50"  alt="Jenkins"/></a>
+<img src="icons/gitlab.png" width="50" height="50"  alt="gitlab"/></a>
+<img src="icons/Junit5.svg" width="50" height="50"  alt="JUnit 5"/></a>
+<img src="icons/testng.png" width="100" height="50"  alt="testng"/></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+------------------------------------------------------------------------
+
+### Projects
+- <a target="_blank" href="https://github.com/ReStarkov/tinkoffTests">Tinkoff City</a> - a demonstration project for website automation testing. 
+- <a target="_blank" href="https://github.com/ReStarkov/restful-booker-api">Restful-booker-api</a> - a demonstration project for API service automation testing.
+- <a target="_blank" href="https://github.com/ReStarkov/wb_mobile">Wildberries</a> - a demonstration project for mobile automation testing.
+
+### Contacts
+- LinkedIn: https://www.linkedin.com/in/romanstarkovv
