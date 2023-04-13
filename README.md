@@ -28,6 +28,7 @@ My name is Roman, and I am a QA Engineer since September 2021.
 <img src="icons/Appium.svg" width="50" height="50"  alt="Appium"/></a>
 <img src="icons/Jenkins.svg" width="50" height="50"  alt="Jenkins"/></a>
 <img src="icons/gitlab.png" width="50" height="50"  alt="gitlab"/></a>
+<img src="icons/TM.png" width="50" height="50"  alt="teamcity"/></a>
 <img src="icons/Junit5.svg" width="50" height="50"  alt="JUnit 5"/></a>
 <img src="icons/testng.png" width="100" height="50"  alt="testng"/></a>
 <img src="icons/android.svg" width="100" height="50"  alt="android"/></a>
