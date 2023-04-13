@@ -34,9 +34,9 @@ My name is Roman, and I am a QA Engineer since September 2021.
 <img src="icons/testng.png" width="100" height="50"  alt="testng"/></a>
 
 ## Projects
-- <a target="_blank" href="https://github.com/ReStarkov/tinkoffTests">Tinkoff City</a> - Test automation project for UI.
+- <a target="_blank" href="https://github.com/ReStarkov/tinkoffTests">Tinkoff City</a> - Test automation project for website "Tinkoff City"
 - <a target="_blank" href="https://github.com/ReStarkov/restful-booker-api">Restful-booker-api</a> - Test automation project for API.
-- <a target="_blank" href="https://github.com/ReStarkov/wb_mobile">Wildberries</a> - Test automation project for mobile app.
+- <a target="_blank" href="https://github.com/ReStarkov/wb_mobile">Wildberries</a> - Test automation project for mobile app "wildberries".
 
 ## My Stats :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ReStarkov&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
