@@ -6,7 +6,7 @@
 
 
 ## About Me
-My name is Roman, and I am a QA Engineer since September 2021. 
+My name is Roman and i am a QA Engineer since September 2021. 
 
 ### Skills
 - ### Java :hotsprings: 
