@@ -8,17 +8,14 @@
 ## About Me
 My name is Roman and i am a QA Engineer since September 2021. 
 
-### Skills
-- ### Java :hotsprings: 
+## Experience
     - Backend testing (Automation and manual) - 80% time
     - UI testing - 20 % time
     - Load testing - sometimes
-- ### Python :snake:
-  - sometimes
+
 
 ## Technologies
 
-:hotsprings: 
 <p align="left">
 <img src="icons/Idea.svg" width="50" height="50"  alt="IDEA"/></a>
 <img src="icons/Java.svg" width="50" height="50"  alt="Java"/></a>
