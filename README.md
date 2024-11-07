@@ -18,6 +18,7 @@ My name is Roman and i am a QA Engineer since September 2021.
 
 ## Technologies
 
+:hotsprings: 
 <p align="left">
 <img src="icons/Idea.svg" width="50" height="50"  alt="IDEA"/></a>
 <img src="icons/Java.svg" width="50" height="50"  alt="Java"/></a>
